@@ -51,7 +51,7 @@ const Footer = () => {
               <Link to={"/"}>Home</Link>
               <Link to={"/appointment"}>Appointment</Link>
               <Link to={"/about"}>About</Link>
-              <a href=" https://testnomial-lthe.onrender.com " target="_blank" rel="noopener noreferrer">
+              <a href=" https://testinomialpage.netlify.app/ " target="_blank" rel="noopener noreferrer">
                   Valuable Feedback
                </a>
             </ul>
